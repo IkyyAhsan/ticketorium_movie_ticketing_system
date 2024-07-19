@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "566577271953",
+    "project_id": "ticketorium-project",
+    "storage_bucket": "ticketorium-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566577271953:android:361c5346841066abdd1b30",
+        "android_client_info": {
+          "package_name": "com.mobile.ticketorium_app_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqDp3Y44H3CqsuzbJZ7nJueJ6aEzP6Gk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
